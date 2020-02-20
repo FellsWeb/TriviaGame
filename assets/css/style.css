@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://www.dafont.com/forum/attach/orig/1/9/199404.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
